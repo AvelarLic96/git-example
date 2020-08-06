@@ -1,2 +1,2 @@
-console.log('Osvaldo Escobar').js
+console.log('Osvaldo Escobar Pequeño');
 console.log('2');
